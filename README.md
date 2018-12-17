@@ -1,1 +1,2 @@
 # mjcompiler
+leksicki analizator
